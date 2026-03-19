@@ -1,10 +1,19 @@
 # Fn-Logic-Learning-AI-Living-Systems
 The transition of Fn-Logic to biological and artificial learning. This system replaces lossy Euler-based models (thermal waste) with process-oriented integer addition. Learning is defined as a recursive cycle of Impulse, Growth, and Symmetry-Understanding — creating a new generation of AI without logical friction or thermal emission.
 
+## 📄 Scientific Paper (PDF Download)
+
+The complete repository content is available as a formatted scientific paper:
+
+**[⬇ Download PDF: Fn-Logic-Learning-AI-Living-Systems.pdf](Fn-Logic-Learning-AI-Living-Systems.pdf)**
+
+> **Author**: Raiko Pulvermacher · **ORCID**: [0009-0003-9431-1001](https://orcid.org/0009-0003-9431-1001)
+
 ## Table of Contents
 
 | File | Content |
 |------|---------|
+| [📄 Scientific Paper (PDF)](Fn-Logic-Learning-AI-Living-Systems.pdf) | Complete paper combining all sections |
 | [abstract – Scientific Abstract](abstract.md) | Summary of the entire project |
 | [file01 – Mathematics of Learning](file01_Mathematics-of-Learning.md) | The mathematical foundation: additive process chain, Anti-Floats, Parity-Rhythm |
 | [file02 – The Biological Rhythm](file02_The-Biological-Rhythm.md) | The living system: U-U-E cycle, 89:11 structure costs, biological energy integrity |
